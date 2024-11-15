@@ -123,4 +123,4 @@ The dataset used in this project contains several tables providing crucial infor
 - **DAX (Data Analysis Expressions)**: Used for calculating key performance metrics (KPIs) in Power BI.
 - **Excel/CSV**: Data storage, cleaning, and transformation.
 
----
+
