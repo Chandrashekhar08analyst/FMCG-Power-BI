@@ -124,12 +124,3 @@ The dataset used in this project contains several tables providing crucial infor
 - **Excel/CSV**: Data storage, cleaning, and transformation.
 
 ---
-
-## **Project Setup**
-
-To run this project locally and explore the dashboard:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/fmcg-supply-chain.git
